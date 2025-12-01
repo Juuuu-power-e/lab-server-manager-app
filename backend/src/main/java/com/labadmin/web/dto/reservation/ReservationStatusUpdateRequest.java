@@ -1,5 +1,2 @@
-﻿package com.labadmin.web.dto.reservation;
-
-public class ReservationStatusUpdateRequest {
-
-}
+package com.labadmin.web.dto.reservation;
+public class ReservationStatusUpdateRequest { public String status; }

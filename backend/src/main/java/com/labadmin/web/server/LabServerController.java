@@ -1,5 +1,5 @@
-﻿package com.labadmin.web.server;
+package com.labadmin.web.server;
+import org.springframework.web.bind.annotation.RestController;
 
-public class LabServerController {
-
-}
+@RestController
+public class LabServerController {}

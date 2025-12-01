@@ -1,15 +1,2 @@
-﻿package com.labadmin.web.dto.auth;
-
-import jakarta.validation.constraints.NotBlank;
-import lombok.Getter;
-import lombok.Setter;
-
-@Getter @Setter
-public class LoginRequest {
-
-    @NotBlank
-    private String username;
-
-    @NotBlank
-    private String password;
-}
+package com.labadmin.web.dto.auth;
+public class LoginRequest { public String username; public String password; }

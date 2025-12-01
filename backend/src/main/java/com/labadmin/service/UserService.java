@@ -1,5 +1,5 @@
-﻿package com.labadmin.service;
+package com.labadmin.service;
+import org.springframework.stereotype.Service;
 
-public class UserService {
-
-}
+@Service
+public class UserService {}

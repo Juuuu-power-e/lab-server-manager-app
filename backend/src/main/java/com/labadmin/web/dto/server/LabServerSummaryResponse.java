@@ -1,5 +1,2 @@
-﻿package com.labadmin.web.dto.server;
-
-public class LabServerSummaryResponse {
-
-}
+package com.labadmin.web.dto.server;
+public class LabServerSummaryResponse {}

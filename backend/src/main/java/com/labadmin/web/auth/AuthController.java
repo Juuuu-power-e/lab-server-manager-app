@@ -1,5 +1,5 @@
-﻿package com.labadmin.web.auth;
+package com.labadmin.web.auth;
+import org.springframework.web.bind.annotation.RestController;
 
-public class AuthController {
-
-}
+@RestController
+public class AuthController {}
